@@ -4,9 +4,10 @@
   "description": "devnet v1",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
-  "author": "\"SHIVAM KANSAL\"",
+  "author": "\"VATSAL AGARWAL\"",
   "license": "ISC",
   "dependencies": {
     "alert-node": "^1.2.3",
